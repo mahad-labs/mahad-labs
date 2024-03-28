@@ -16,11 +16,13 @@
 <p>- AWS Cloud Resume Challenge: (https://medium.com/@mahad.mahamed/aws-cloud-resume-challenge-9e59a53d7d99)</p>
 <p>- AWS AutoScaling WebServer: (https://medium.com/@mahad.mahamed/autoscaling-project-43e2c649e9a6)</p>
 
+</br></br>
+
 <h2> 🤳 Connect with me:</h2>
 <p>LinkedIn: (https://www.linkedin.com/in/mahad-mahamed-14192983/)</p>
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mahad-labs/mahad-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
