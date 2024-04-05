@@ -1,4 +1,5 @@
-<h1>Hi, I'm Mahad! <br/><a href="https://github.com/mahad-labs">Cloud Engineer</a>, <a href="https://www.linkedin.com/in/mahad-mahamed-14192983/">LinkedIn</a></h1>
+<h1>Hi, I'm Mahad! <br/><a href="https://github.com/mahad-labs">Cloud Engineer</a>, 
+<h1>LinkedIn <a href="https://www.linkedin.com/in/mahad-mahamed-14192983/">https://www.linkedin.com/in/mahad-mahamed-14192983/</a></h1>
 
 <h2>👨‍💻 Cloud Engineering Projects:</h2>
 
