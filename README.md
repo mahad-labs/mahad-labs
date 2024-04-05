@@ -3,12 +3,13 @@
 </br>
 <h2>👨‍💻 Cloud Engineering Projects:</h2>
 </b>
-- [AWS Cloud Resume Challenge](https://github.com/mahad-labs/aws-cloud-resume-challenge)
-- [Terraform for AWS](https://github.com/mahad-labs/terraform-aws)
-- [AWS CLI](https://github.com/mahad-labs/aws)
-- [Python](https://github.com/mahad-labs/python)
-- [Linux Bash Scripting](https://github.com/mahad-labs/bash)
 
+
+<p>- AWS Cloud Resume Challenge: (https://github.com/mahad-labs/aws-cloud-resume-challenge)</p>
+<p>- Terraform for AWS: (https://github.com/mahad-labs/terraform-aws)</p>
+<p>- AWS CLI: (https://github.com/mahad-labs/aws)</p>
+<p>- Python: (https://github.com/mahad-labs/python)</p>
+<p>- Linux Bash Scripting: (https://github.com/mahad-labs/bash)</p>
 </br></br>
 
 <h2>💻 Blog Posts: </h2>
