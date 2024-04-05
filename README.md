@@ -3,7 +3,7 @@
 </br>
 <h2>👨‍💻 Cloud Engineering Projects:</h2>
 </b>
-<p> - AWS Cloud Resume Challenge: <a>(https://github.com/mahad-labs/aws-cloud-resume-challenge)</a></p>
+<p> - AWS Cloud Resume Challenge: (https://github.com/mahad-labs/aws-cloud-resume-challenge)</p>
 <p> - Terraform for AWS: (https://github.com/mahad-labs/terraform-aws)</p>
 <p> - AWS CLI :(https://github.com/mahad-labs/aws)</p>
 <p> - Python: (https://github.com/mahad-labs/python)</p>
